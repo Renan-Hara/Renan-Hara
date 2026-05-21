@@ -16,7 +16,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Campinas e esto
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Linguagens e tecnologias
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
+<div id='Logo'>
+    <p align = "center">
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
     <img align="center" alt="HTML5" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
     <img align="center" alt="CSS3" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img align="center" alt="JS" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -24,11 +26,17 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Campinas e esto
     <img align="center" alt="PHP" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
     <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="Java" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    </p>
+    
 
 ### Ferramentas
+<p align ="center">
 <img align="center" alt="Git" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="center" alt="VScode" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="center" alt="Trello" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+</p>
+
+</div>
 
 ---
 
